@@ -1,4 +1,4 @@
-package ru.geekbrains.homework.fifth;
+package ru.geekbrains.homework.fifth; //Kozko
 
 public class FifthHomework {
 
