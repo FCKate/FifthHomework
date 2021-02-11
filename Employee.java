@@ -1,4 +1,4 @@
-package ru.geekbrains.homework.fifth;//Kozko
+package ru.geekbrains.homework.fifth;//KozkoK
 
 public class Employee {
     private String fullName;
